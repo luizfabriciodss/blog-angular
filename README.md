@@ -10,15 +10,6 @@
 | Bootcamp   | Santander Bootcamp 2023 - Fullstack Java+Angular |
 | Plataforma | DIO                                              |
 
-<br>
-
-![Alt text](./src/assets/imageHome.png)
-![Alt text](./src/assets/imageContent.png)
-
-<br/>
-
-![Alt text](./src/assets/imageHomeResponse.png)
-![Alt text](./src/assets/imageContentResponse.png)
 
 ##
 ### Tecnologias utilizadas:
