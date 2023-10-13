@@ -6,7 +6,7 @@
 | Angular    | Ganhando produtividade com Angular               |
 |------------|--------------------------------------------------|
 | Módulo     | Criando um blog com Angular                      |
-| Com        | Felipe Silva Aguiar                              |
+| Com        | Luiz Fabrício                             |
 | Bootcamp   | Santander Bootcamp 2023 - Fullstack Java+Angular |
 | Plataforma | DIO                                              |
 
